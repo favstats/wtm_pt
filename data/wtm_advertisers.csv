@@ -1,60 +1,60 @@
-id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_active,entities.is_political,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-01418b2e-b651-40b3-9012-bfc32e7ac989,Rui Cristina,2023-02-13T10:52:31.478Z,26699c4d-ca51-4f32-9dd5-4858bb45aa0a,PSD,true,true,Portugal,pt,106973434490589,Rui Cristina,Facebook
-1580b722-22fa-40ab-a8a2-59c4baf5df0a,Bruno Sousa Costa,2023-03-06T10:52:25.129Z,ab5c8fe6-4a2d-4f35-af7a-bc3db6dff154,PSD,true,true,Portugal,pt,883221805178817,Bruno Sousa Costa,Facebook
-1d217688-f5b4-4d89-9bec-ca328351103a,Luís Montenegro,2023-02-07T15:04:59.676Z,4b3e481f-cf22-4ea0-b496-0d51d53f5501,PSD,true,true,Portugal,pt,107252064043989,Luís Montenegro,Facebook
-3289c11e-473b-425b-a160-0aab9fc2a3ea,Carlos Eduardo Reis,2023-02-08T05:55:28.859Z,2e381be0-1e56-4f3a-93dd-2251d3aded98,PSD,true,true,Portugal,pt,166220000072022,Carlos Eduardo Reis,Facebook
-3b58c1bf-59da-418e-a514-1247a55234d5,PSD Gaia,2023-03-08T17:43:46.493Z,582c2d8a-aeef-48c1-a19c-9b39adff404b,PSD,true,true,Portugal,pt,1733777020184306,PSD Gaia,Facebook
-5d4dc396-5737-462f-866e-e646aabfde58,Partido Social Democrata,2022-08-16T15:24:29.812Z,738dd586-3219-4c77-a5cd-5f6789720a11,PSD,true,true,Portugal,pt,123051634390412,Partido Social Democrata,Facebook
-7c1cd66c-acc4-4b56-93ba-0cad7229357c,Partido Social Democrata - Vilarinho,2023-11-10T05:06:00.200Z,5ebfe18d-e17d-4b10-b925-801703e6e819,PSD,true,true,Portugal,pt,103329601986527,Partido Social Democrata - Vilarinho,Facebook
-86ab024e-fc6a-4e27-a5b2-14544e76ef5f,PSD Viseu,2023-03-08T15:59:54.020Z,27e1fa58-2cfc-45fb-9c2a-0b28e5ce9404,PSD,true,true,Portugal,pt,136155576491033,PSD Viseu,Facebook
-9b75069a-51de-4f36-9e96-4ddf2fec5b76,PSD Almada,2023-03-18T10:52:12.728Z,aedc42f3-3cdc-4229-a529-2b3bdced674f,PSD,true,true,Portugal,pt,135192429904666,PSD Almada,Facebook
-9bf536d3-0281-4f4f-bcb9-7725ca464ca2,PSD SÃO BRÁS DE ALPORTEL,2023-03-20T10:52:10.692Z,4a169f04-e0bf-4731-beff-e42db8e0ba95,PSD,true,true,Portugal,pt,108023732579015,PSD SÃO BRÁS DE ALPORTEL,Facebook
-a6fd1858-3f1f-4034-be38-3fc4b6946e36,Nova Geração 2021,2023-02-07T15:04:59.835Z,6d0d21a9-d563-48e4-9bc4-454f8b882aaf,PSD,true,true,Portugal,pt,104590578503413,Nova Geração 2021,Facebook
-a98fc0fa-39b9-4c13-a173-a1e49a8d1d75,PSD de Torres Vedras,2023-03-08T18:48:00.648Z,29703cc1-a20c-44ed-bdd2-da83ab05270e,PSD,true,true,Portugal,pt,458126924278372,PSD de Torres Vedras,Facebook
-ccf6c135-2446-43fa-8369-efbdeb575494,PSD Vale de Cambra,2023-12-02T17:14:06.350Z,036b4af8-57d9-4430-bf91-624d1a201c41,PSD,true,true,Portugal,pt,110156918211659,PSD Vale de Cambra,Facebook
-d4cf93f8-9eed-4c20-8e2e-4d23d0682fd1,PSD Santo Tirso,2023-02-08T05:55:28.880Z,69fd171f-5d6c-4b4e-b8f7-72fed74e6751,PSD,true,true,Portugal,pt,706144582783217,PSD Santo Tirso,Facebook
-da025f03-6e8e-4c10-be64-cf50e10fb642,PSD Lagoa - Açores,2023-11-01T05:06:11.260Z,abc087f9-ebb5-43d3-b251-b4529a825934,PSD,true,true,Portugal,pt,125007860516603,PSD Lagoa - Açores,Facebook
-de41ee24-f2f0-422c-9d5d-2c26b9ae8c43,PSD Montalegre,2023-12-09T05:06:03.415Z,52a5a8e3-8dbf-4986-adbc-312b7f738fbe,PSD,true,true,Portugal,pt,430772306992784,PSD Montalegre,Facebook
-e159fc01-365d-4470-9688-6c67b9844bad,Hugo Oliveira,2023-03-06T10:52:25.046Z,03b3a57a-804c-457b-b144-807dec04162f,PSD,true,true,Portugal,pt,225083420873500,Hugo Oliveira,Facebook
-e4a134a7-b58e-45a0-9480-43416216d371,PSD Madeira,2023-07-05T06:06:29.311Z,977f7818-cba2-4113-8963-df87dcdf022b,PSD,true,true,Portugal,pt,101261682655873,PSD Madeira,Facebook
-ee90dc08-f01a-476c-952e-8f9ead6d0162,Cristóvão Norte,2023-02-07T15:04:59.852Z,e8fb8be5-f520-4be8-a4b3-63dfaac4d638,PSD,true,true,Portugal,pt,162224703842642,Cristóvão Norte,Facebook
-f22c407c-8c6a-4fa8-9417-6d1177a0f532,É Hora de Mudar - Psd/cds - Assembleia Municipal da Lousã,2023-03-01T10:52:20.482Z,fa1c89e0-c8c1-4f5d-8f2a-f7db11aae116,PSD,true,true,Portugal,pt,103371065666852,É Hora de Mudar - Psd/cds - Assembleia Municipal da Lousã,Facebook
-884e3209-bf4e-471f-ac42-59d4b34c9f11,LIVRE Madeira,2023-06-13T06:52:22.781Z,3b9da0a2-b49f-4948-abc4-579f5b0204b5,L,true,true,Portugal,pt,189210814929963,LIVRE Madeira,Facebook
-ba637813-d30e-437e-8b26-ff184d8d0ec3,LIVRE,2022-08-16T15:24:29.799Z,c3e4b0a7-ebc6-4016-942c-5e5f41d451c5,L,true,true,Portugal,pt,223731004466825,LIVRE,Facebook
-c4ead868-4fdc-41e7-a36b-aa088e3a2767,LIVRE Sintra,2023-02-20T10:52:24.412Z,22cc67cc-4607-4a74-93e2-237d87b311da,L,true,true,Portugal,pt,107868191634449,LIVRE Sintra,Facebook
-eafe4303-5009-40cc-b686-34ae920de24c,Partido Democrático Republicano,2022-08-16T15:24:29.801Z,1a533e3c-0c39-40f6-bb77-f5788d937efd,PDR,true,true,Portugal,pt,1547514908798360,Partido Democrático Republicano,Facebook
-1232f559-92b3-43d5-a5bf-da7c01c6a0f9,Bloco de Esquerda,2022-08-16T15:24:29.784Z,852a0d7e-caeb-4c20-aef7-f800735af8ed,B.E.,true,true,Portugal,pt,116426248469551,Bloco de Esquerda,Facebook
-e55013ec-9c65-4cbb-b40c-ec991ef7a787,Bloco de Esquerda - Matosinhos,2023-10-11T05:06:00.489Z,70eeba1f-3467-4a07-bf04-de14b6bece7e,B.E.,true,true,Portugal,pt,100129875630529,Bloco de Esquerda - Matosinhos,Facebook
-1fd51e80-0822-45ab-b12c-bedd3a913a8a,CDS - PP Figueira de Castelo Rodrigo,2023-11-27T05:06:28.826Z,51de7d29-2ed5-4dce-a4ba-73a37d93e63c,CDSPP,true,true,Portugal,pt,2333717153532426,CDS - PP Figueira de Castelo Rodrigo,Facebook
-72862473-206d-4e70-9217-1c2713eb98d2,Álvaro Amaro,2023-02-07T15:04:59.957Z,24ea3c3f-e736-487f-bbee-7e46a75f801c,CDSPP,true,true,Portugal,pt,397962160783891,Álvaro Amaro,Facebook
-8c3f702a-e0a8-4128-b003-f6a6b4c72b69,CDS Açores,2023-06-20T05:08:26.054Z,3b7d378b-c701-457e-97fe-d5e8ee77e5cc,CDSPP,true,true,Portugal,pt,1004094782936856,CDS Açores,Facebook
-9487fe0d-cc4c-4aa2-8e69-254d7306671a,Maria da Graça Carvalho,2023-06-09T06:52:07.270Z,f184fdda-086b-4fff-8012-65451c9d24d1,CDSPP,true,true,Portugal,pt,145751788810743,Maria da Graça Carvalho,Facebook
-d86a8a73-7480-45b0-90e1-fc4e92fa7d7d,Centro Democrático e Social – Partido Popular,2022-08-16T15:24:29.826Z,b9cde6f5-8a12-4620-8fdf-b7510bf82d2b,CDSPP,true,true,Portugal,pt,814851935239574,Centro Democrático e Social – Partido Popular,Facebook
-3959427c-ef12-4c85-bf37-91b52808f550,Partido da Terra,2022-08-16T15:24:29.946Z,09851039-05aa-45e9-94bb-4c969354fbbf,MPT,false,true,Portugal,pt,146136572163266,Partido da Terra,Facebook
-14e6fe47-8ee8-417c-9103-ee2624660cbb,Partido Socialista,2022-08-16T15:24:29.785Z,41ff6082-b569-44b6-bbec-459d45e0da6c,PS,true,true,Portugal,pt,188500147828984,Partido Socialista,Facebook
-1e9ffa10-192a-4b0e-be2b-d150ece6f7c3,PS Moita,2023-03-05T10:52:31.872Z,cf6aef15-3375-42eb-a74b-3d5cff85bb2c,PS,true,true,Portugal,pt,146427908881902,PS Moita,Facebook
-2d3be9df-5f17-4fca-9c4c-d48b3c134ac9,Grupo do PS na Assembleia de Freguesia da Guarda,2023-03-06T10:52:24.985Z,8e61789f-52a6-48ca-8878-d1de1d3860a9,PS,true,true,Portugal,pt,1241606822611843,Grupo do PS na Assembleia de Freguesia da Guarda,Facebook
-309835d0-eb8c-4651-abf1-a842df3b67bd,Partido Socialista Europeu,2023-06-10T06:52:04.656Z,489adc72-2f1e-4f91-8834-91d11a03c0eb,PS,true,true,Portugal,pt,126509981274614,Partido Socialista Europeu,Facebook
-3a0cceb6-bca8-4624-aa7d-c586c9ae45e7,PS Palmela,2023-02-17T10:52:12.699Z,d3f93da3-4a8a-4545-8a31-0761488b4327,PS,true,true,Portugal,pt,666367330092399,PS Palmela,Facebook
-3d0733eb-929c-4604-924b-47dd10dab7d5,PS na CML,2023-02-13T10:52:31.550Z,219bbb05-f2eb-4ba1-b148-894999a6be4d,PS,true,true,Portugal,pt,463240550694879,PS na CML,Facebook
-85432f50-4360-4cfd-b962-4fabdc19544b,PS Barreiro,2023-03-07T10:52:20.868Z,7c87635d-9b93-4c88-b93b-be00b8ed2f63,PS,true,true,Portugal,pt,118637541499395,PS Barreiro,Facebook
-b66b6ad7-036f-49de-b227-3f6c05ef0380,Miguel Fernandes,2023-02-19T10:52:37.190Z,469f9671-fd74-4df3-befe-6d18b70d4768,PS,true,true,Portugal,pt,100521345762709,Miguel Fernandes,Facebook
-c45a911b-3776-4282-b13c-2e1e75340e8e,PS Porto,2023-03-08T17:43:46.473Z,70b3ed24-9f84-4b15-a658-442e683a8639,PS,true,true,Portugal,pt,168530286531766,PS Porto,Facebook
-e6395495-21ec-4207-950b-a9e83d500f2b,Partido Socialista Vieira do Minho,2023-02-15T10:52:13.234Z,ed8ae60a-6105-4789-86df-c8b5bb040790,PS,true,true,Portugal,pt,118490308554579,Partido Socialista Vieira do Minho,Facebook
-f337ac02-8dad-436f-ba44-3c92a0006287,PS Póvoa de Varzim - Dedicados à Póvoa,2023-03-13T10:52:10.899Z,0026ae8f-a0a0-4d93-97c6-a470a880c06e,PS,true,true,Portugal,pt,231957523669042,PS Póvoa de Varzim - Dedicados à Póvoa,Facebook
-f7832955-9f70-4800-ab16-c57b9fea2828,Partido Socialista dos Açores,2023-11-01T05:06:11.226Z,448fe2a4-5064-48f9-8f31-77a0f92fb5da,PS,true,true,Portugal,pt,141358023084,Partido Socialista dos Açores,Facebook
-89df24c4-749c-47c1-b7a8-48af6e84598b,Pessoas-Animais-Natureza,2022-08-16T15:24:29.797Z,30ea170c-4c94-4104-9dcd-af0bc28b85ae,PAN,true,true,Portugal,pt,890462117681551,Pessoas-Animais-Natureza,Facebook
-791c2fa4-3e96-432f-b8ee-43746dfe8d2a,PCP - Partido Comunista Português,2023-09-10T05:06:04.721Z,8d2a155e-0a05-4246-b185-b8d8d3db174d,PCP,true,true,Portugal,pt,1548718718780787,PCP - Partido Comunista Português,Facebook
-cef77429-f55a-447c-9883-79f8435f797e,Partido Comunista Português,2022-08-16T15:24:29.784Z,34cbcc97-d68a-43a6-a5e6-bd7f81bb9ad5,PCP,true,true,Portugal,pt,1548718718780780,Partido Comunista Português,Facebook
-189fca33-18b4-4064-9470-d12e9ec172c9,Ana Peres  CHEGA Cascais,2023-09-15T05:05:56.437Z,db8bd652-b746-4a8f-8479-386025d662e2,CH,true,true,Portugal,pt,113504570971264,Ana Peres  CHEGA Cascais,Facebook
-4c24b162-dc32-4ca4-8150-343f128fa852,Chega Açores,2023-03-08T14:41:06.463Z,866a7057-d189-4f84-8c77-df8c89b8d491,CH,true,true,Portugal,pt,101991058085799,Chega Açores,Facebook
-7cc461bb-6116-495a-97a4-ecbee15650a1,Nelson Santos - Partido Chega,2023-03-22T10:52:01.824Z,2127da00-97bd-4113-9765-18281ce52041,CH,true,true,Portugal,pt,104621939236568,Nelson Santos - Partido Chega,Facebook
-b9bef103-1623-481b-ab20-02f90b604598,Bruno  Mascarenhas,2023-05-24T06:52:17.584Z,18224eff-b593-4c8e-b22d-126367a5aa97,CH,true,true,Portugal,pt,106734345061768,Bruno  Mascarenhas,Facebook
-f043b3a9-d36a-4c67-b1ce-2ec7af930616,CHEGA Lumiar,2023-03-08T16:40:44.984Z,95f51304-3d82-444f-ac0c-1093d3d0b1cf,CH,true,true,Portugal,pt,101187715635132,CHEGA Lumiar,Facebook
-10fa3ccb-23a9-4793-8d46-89f0195ac6ad,Iniciativa Liberal Santiago do Cacém,2023-03-24T10:52:22.092Z,aef55acb-b927-4136-b688-edce14832d6c,IL,true,true,Portugal,pt,106189545729867,Iniciativa Liberal Santiago do Cacém,Facebook
-26caa893-7b6d-4634-abc1-fcd1928f0134,Iniciativa Liberal - Gondomar,2023-05-30T06:52:24.491Z,d099484c-14bb-4077-be08-bb937a2e1a20,IL,true,true,Portugal,pt,101360765001943,Iniciativa Liberal - Gondomar,Facebook
-280719f1-a58a-483d-ab4d-378c969cb106,Iniciativa Liberal - Açores,2023-02-08T05:55:28.949Z,98008d89-05aa-411d-91ec-c2addb316776,IL,true,true,Portugal,pt,101429031461126,Iniciativa Liberal - Açores,Facebook
-37a0f550-0e94-45de-a657-4a297e07dc06,Iniciativa Liberal - Vila do Conde,2023-06-06T06:52:04.887Z,9e93691e-03f3-48d4-af14-c6b8b8d694fb,IL,true,true,Portugal,pt,345823966653719,Iniciativa Liberal - Vila do Conde,Facebook
-8010c6fd-b952-48ea-82f1-b4e41831f873,Iniciativa Liberal Aveiro,2023-11-12T05:06:14.246Z,3f73536c-1515-4ad3-a9db-cb3ddd13dc4f,IL,true,true,Portugal,pt,101914318152138,Iniciativa Liberal Aveiro,Facebook
-abc8809b-bdb8-45b6-b829-b4ce6ac28e63,Iniciativa Liberal Odivelas,2023-05-14T06:52:19.399Z,36de70d8-e1ad-4eb9-8cf2-2947a4fe8ac6,IL,true,true,Portugal,pt,106957877444901,Iniciativa Liberal Odivelas,Facebook
-bdd04677-f1f0-4c06-bda5-4eaf81084638,Iniciativa Liberal Póvoa de Varzim,2023-03-20T10:52:10.680Z,f7f9923b-7ffa-4057-9fa0-588bf1d2814c,IL,true,true,Portugal,pt,101565744677928,Iniciativa Liberal Póvoa de Varzim,Facebook
+id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+01418b2e-b651-40b3-9012-bfc32e7ac989,Rui Cristina,2023-02-13T10:52:31.478Z,26699c4d-ca51-4f32-9dd5-4858bb45aa0a,PSD,Portugal,pt,106973434490589,Rui Cristina,Facebook
+1580b722-22fa-40ab-a8a2-59c4baf5df0a,Bruno Sousa Costa,2023-03-06T10:52:25.129Z,ab5c8fe6-4a2d-4f35-af7a-bc3db6dff154,PSD,Portugal,pt,883221805178817,Bruno Sousa Costa,Facebook
+1d217688-f5b4-4d89-9bec-ca328351103a,Luís Montenegro,2023-02-07T15:04:59.676Z,4b3e481f-cf22-4ea0-b496-0d51d53f5501,PSD,Portugal,pt,107252064043989,Luís Montenegro,Facebook
+3289c11e-473b-425b-a160-0aab9fc2a3ea,Carlos Eduardo Reis,2023-02-08T05:55:28.859Z,2e381be0-1e56-4f3a-93dd-2251d3aded98,PSD,Portugal,pt,166220000072022,Carlos Eduardo Reis,Facebook
+3b58c1bf-59da-418e-a514-1247a55234d5,PSD Gaia,2023-03-08T17:43:46.493Z,582c2d8a-aeef-48c1-a19c-9b39adff404b,PSD,Portugal,pt,1733777020184306,PSD Gaia,Facebook
+5d4dc396-5737-462f-866e-e646aabfde58,Partido Social Democrata,2022-08-16T15:24:29.812Z,738dd586-3219-4c77-a5cd-5f6789720a11,PSD,Portugal,pt,123051634390412,Partido Social Democrata,Facebook
+7c1cd66c-acc4-4b56-93ba-0cad7229357c,Partido Social Democrata - Vilarinho,2023-11-10T05:06:00.200Z,5ebfe18d-e17d-4b10-b925-801703e6e819,PSD,Portugal,pt,103329601986527,Partido Social Democrata - Vilarinho,Facebook
+86ab024e-fc6a-4e27-a5b2-14544e76ef5f,PSD Viseu,2023-03-08T15:59:54.020Z,27e1fa58-2cfc-45fb-9c2a-0b28e5ce9404,PSD,Portugal,pt,136155576491033,PSD Viseu,Facebook
+9b75069a-51de-4f36-9e96-4ddf2fec5b76,PSD Almada,2023-03-18T10:52:12.728Z,aedc42f3-3cdc-4229-a529-2b3bdced674f,PSD,Portugal,pt,135192429904666,PSD Almada,Facebook
+9bf536d3-0281-4f4f-bcb9-7725ca464ca2,PSD SÃO BRÁS DE ALPORTEL,2023-03-20T10:52:10.692Z,4a169f04-e0bf-4731-beff-e42db8e0ba95,PSD,Portugal,pt,108023732579015,PSD SÃO BRÁS DE ALPORTEL,Facebook
+a6fd1858-3f1f-4034-be38-3fc4b6946e36,Nova Geração 2021,2023-02-07T15:04:59.835Z,6d0d21a9-d563-48e4-9bc4-454f8b882aaf,PSD,Portugal,pt,104590578503413,Nova Geração 2021,Facebook
+a98fc0fa-39b9-4c13-a173-a1e49a8d1d75,PSD de Torres Vedras,2023-03-08T18:48:00.648Z,29703cc1-a20c-44ed-bdd2-da83ab05270e,PSD,Portugal,pt,458126924278372,PSD de Torres Vedras,Facebook
+ccf6c135-2446-43fa-8369-efbdeb575494,PSD Vale de Cambra,2023-12-02T17:14:06.350Z,036b4af8-57d9-4430-bf91-624d1a201c41,PSD,Portugal,pt,110156918211659,PSD Vale de Cambra,Facebook
+d4cf93f8-9eed-4c20-8e2e-4d23d0682fd1,PSD Santo Tirso,2023-02-08T05:55:28.880Z,69fd171f-5d6c-4b4e-b8f7-72fed74e6751,PSD,Portugal,pt,706144582783217,PSD Santo Tirso,Facebook
+da025f03-6e8e-4c10-be64-cf50e10fb642,PSD Lagoa - Açores,2023-11-01T05:06:11.260Z,abc087f9-ebb5-43d3-b251-b4529a825934,PSD,Portugal,pt,125007860516603,PSD Lagoa - Açores,Facebook
+de41ee24-f2f0-422c-9d5d-2c26b9ae8c43,PSD Montalegre,2023-12-09T05:06:03.415Z,52a5a8e3-8dbf-4986-adbc-312b7f738fbe,PSD,Portugal,pt,430772306992784,PSD Montalegre,Facebook
+e159fc01-365d-4470-9688-6c67b9844bad,Hugo Oliveira,2023-03-06T10:52:25.046Z,03b3a57a-804c-457b-b144-807dec04162f,PSD,Portugal,pt,225083420873500,Hugo Oliveira,Facebook
+e4a134a7-b58e-45a0-9480-43416216d371,PSD Madeira,2023-07-05T06:06:29.311Z,977f7818-cba2-4113-8963-df87dcdf022b,PSD,Portugal,pt,101261682655873,PSD Madeira,Facebook
+ee90dc08-f01a-476c-952e-8f9ead6d0162,Cristóvão Norte,2023-02-07T15:04:59.852Z,e8fb8be5-f520-4be8-a4b3-63dfaac4d638,PSD,Portugal,pt,162224703842642,Cristóvão Norte,Facebook
+f22c407c-8c6a-4fa8-9417-6d1177a0f532,É Hora de Mudar - Psd/cds - Assembleia Municipal da Lousã,2023-03-01T10:52:20.482Z,fa1c89e0-c8c1-4f5d-8f2a-f7db11aae116,PSD,Portugal,pt,103371065666852,É Hora de Mudar - Psd/cds - Assembleia Municipal da Lousã,Facebook
+884e3209-bf4e-471f-ac42-59d4b34c9f11,LIVRE Madeira,2023-06-13T06:52:22.781Z,3b9da0a2-b49f-4948-abc4-579f5b0204b5,L,Portugal,pt,189210814929963,LIVRE Madeira,Facebook
+ba637813-d30e-437e-8b26-ff184d8d0ec3,LIVRE,2022-08-16T15:24:29.799Z,c3e4b0a7-ebc6-4016-942c-5e5f41d451c5,L,Portugal,pt,223731004466825,LIVRE,Facebook
+c4ead868-4fdc-41e7-a36b-aa088e3a2767,LIVRE Sintra,2023-02-20T10:52:24.412Z,22cc67cc-4607-4a74-93e2-237d87b311da,L,Portugal,pt,107868191634449,LIVRE Sintra,Facebook
+eafe4303-5009-40cc-b686-34ae920de24c,Partido Democrático Republicano,2022-08-16T15:24:29.801Z,1a533e3c-0c39-40f6-bb77-f5788d937efd,PDR,Portugal,pt,1547514908798360,Partido Democrático Republicano,Facebook
+1232f559-92b3-43d5-a5bf-da7c01c6a0f9,Bloco de Esquerda,2022-08-16T15:24:29.784Z,852a0d7e-caeb-4c20-aef7-f800735af8ed,B.E.,Portugal,pt,116426248469551,Bloco de Esquerda,Facebook
+e55013ec-9c65-4cbb-b40c-ec991ef7a787,Bloco de Esquerda - Matosinhos,2023-10-11T05:06:00.489Z,70eeba1f-3467-4a07-bf04-de14b6bece7e,B.E.,Portugal,pt,100129875630529,Bloco de Esquerda - Matosinhos,Facebook
+1fd51e80-0822-45ab-b12c-bedd3a913a8a,CDS - PP Figueira de Castelo Rodrigo,2023-11-27T05:06:28.826Z,51de7d29-2ed5-4dce-a4ba-73a37d93e63c,CDSPP,Portugal,pt,2333717153532426,CDS - PP Figueira de Castelo Rodrigo,Facebook
+72862473-206d-4e70-9217-1c2713eb98d2,Álvaro Amaro,2023-02-07T15:04:59.957Z,24ea3c3f-e736-487f-bbee-7e46a75f801c,CDSPP,Portugal,pt,397962160783891,Álvaro Amaro,Facebook
+8c3f702a-e0a8-4128-b003-f6a6b4c72b69,CDS Açores,2023-06-20T05:08:26.054Z,3b7d378b-c701-457e-97fe-d5e8ee77e5cc,CDSPP,Portugal,pt,1004094782936856,CDS Açores,Facebook
+9487fe0d-cc4c-4aa2-8e69-254d7306671a,Maria da Graça Carvalho,2023-06-09T06:52:07.270Z,f184fdda-086b-4fff-8012-65451c9d24d1,CDSPP,Portugal,pt,145751788810743,Maria da Graça Carvalho,Facebook
+d86a8a73-7480-45b0-90e1-fc4e92fa7d7d,Centro Democrático e Social – Partido Popular,2022-08-16T15:24:29.826Z,b9cde6f5-8a12-4620-8fdf-b7510bf82d2b,CDSPP,Portugal,pt,814851935239574,Centro Democrático e Social – Partido Popular,Facebook
+3959427c-ef12-4c85-bf37-91b52808f550,Partido da Terra,2022-08-16T15:24:29.946Z,09851039-05aa-45e9-94bb-4c969354fbbf,MPT,Portugal,pt,146136572163266,Partido da Terra,Facebook
+14e6fe47-8ee8-417c-9103-ee2624660cbb,Partido Socialista,2022-08-16T15:24:29.785Z,41ff6082-b569-44b6-bbec-459d45e0da6c,PS,Portugal,pt,188500147828984,Partido Socialista,Facebook
+1e9ffa10-192a-4b0e-be2b-d150ece6f7c3,PS Moita,2023-03-05T10:52:31.872Z,cf6aef15-3375-42eb-a74b-3d5cff85bb2c,PS,Portugal,pt,146427908881902,PS Moita,Facebook
+2d3be9df-5f17-4fca-9c4c-d48b3c134ac9,Grupo do PS na Assembleia de Freguesia da Guarda,2023-03-06T10:52:24.985Z,8e61789f-52a6-48ca-8878-d1de1d3860a9,PS,Portugal,pt,1241606822611843,Grupo do PS na Assembleia de Freguesia da Guarda,Facebook
+309835d0-eb8c-4651-abf1-a842df3b67bd,Partido Socialista Europeu,2023-06-10T06:52:04.656Z,489adc72-2f1e-4f91-8834-91d11a03c0eb,PS,Portugal,pt,126509981274614,Partido Socialista Europeu,Facebook
+3a0cceb6-bca8-4624-aa7d-c586c9ae45e7,PS Palmela,2023-02-17T10:52:12.699Z,d3f93da3-4a8a-4545-8a31-0761488b4327,PS,Portugal,pt,666367330092399,PS Palmela,Facebook
+3d0733eb-929c-4604-924b-47dd10dab7d5,PS na CML,2023-02-13T10:52:31.550Z,219bbb05-f2eb-4ba1-b148-894999a6be4d,PS,Portugal,pt,463240550694879,PS na CML,Facebook
+85432f50-4360-4cfd-b962-4fabdc19544b,PS Barreiro,2023-03-07T10:52:20.868Z,7c87635d-9b93-4c88-b93b-be00b8ed2f63,PS,Portugal,pt,118637541499395,PS Barreiro,Facebook
+b66b6ad7-036f-49de-b227-3f6c05ef0380,Miguel Fernandes,2023-02-19T10:52:37.190Z,469f9671-fd74-4df3-befe-6d18b70d4768,PS,Portugal,pt,100521345762709,Miguel Fernandes,Facebook
+c45a911b-3776-4282-b13c-2e1e75340e8e,PS Porto,2023-03-08T17:43:46.473Z,70b3ed24-9f84-4b15-a658-442e683a8639,PS,Portugal,pt,168530286531766,PS Porto,Facebook
+e6395495-21ec-4207-950b-a9e83d500f2b,Partido Socialista Vieira do Minho,2023-02-15T10:52:13.234Z,ed8ae60a-6105-4789-86df-c8b5bb040790,PS,Portugal,pt,118490308554579,Partido Socialista Vieira do Minho,Facebook
+f337ac02-8dad-436f-ba44-3c92a0006287,PS Póvoa de Varzim - Dedicados à Póvoa,2023-03-13T10:52:10.899Z,0026ae8f-a0a0-4d93-97c6-a470a880c06e,PS,Portugal,pt,231957523669042,PS Póvoa de Varzim - Dedicados à Póvoa,Facebook
+f7832955-9f70-4800-ab16-c57b9fea2828,Partido Socialista dos Açores,2023-11-01T05:06:11.226Z,448fe2a4-5064-48f9-8f31-77a0f92fb5da,PS,Portugal,pt,141358023084,Partido Socialista dos Açores,Facebook
+89df24c4-749c-47c1-b7a8-48af6e84598b,Pessoas-Animais-Natureza,2022-08-16T15:24:29.797Z,30ea170c-4c94-4104-9dcd-af0bc28b85ae,PAN,Portugal,pt,890462117681551,Pessoas-Animais-Natureza,Facebook
+791c2fa4-3e96-432f-b8ee-43746dfe8d2a,PCP - Partido Comunista Português,2023-09-10T05:06:04.721Z,8d2a155e-0a05-4246-b185-b8d8d3db174d,PCP,Portugal,pt,1548718718780787,PCP - Partido Comunista Português,Facebook
+cef77429-f55a-447c-9883-79f8435f797e,Partido Comunista Português,2022-08-16T15:24:29.784Z,34cbcc97-d68a-43a6-a5e6-bd7f81bb9ad5,PCP,Portugal,pt,1548718718780780,Partido Comunista Português,Facebook
+189fca33-18b4-4064-9470-d12e9ec172c9,Ana Peres  CHEGA Cascais,2023-09-15T05:05:56.437Z,db8bd652-b746-4a8f-8479-386025d662e2,CH,Portugal,pt,113504570971264,Ana Peres  CHEGA Cascais,Facebook
+4c24b162-dc32-4ca4-8150-343f128fa852,Chega Açores,2023-03-08T14:41:06.463Z,866a7057-d189-4f84-8c77-df8c89b8d491,CH,Portugal,pt,101991058085799,Chega Açores,Facebook
+7cc461bb-6116-495a-97a4-ecbee15650a1,Nelson Santos - Partido Chega,2023-03-22T10:52:01.824Z,2127da00-97bd-4113-9765-18281ce52041,CH,Portugal,pt,104621939236568,Nelson Santos - Partido Chega,Facebook
+b9bef103-1623-481b-ab20-02f90b604598,Bruno  Mascarenhas,2023-05-24T06:52:17.584Z,18224eff-b593-4c8e-b22d-126367a5aa97,CH,Portugal,pt,106734345061768,Bruno  Mascarenhas,Facebook
+f043b3a9-d36a-4c67-b1ce-2ec7af930616,CHEGA Lumiar,2023-03-08T16:40:44.984Z,95f51304-3d82-444f-ac0c-1093d3d0b1cf,CH,Portugal,pt,101187715635132,CHEGA Lumiar,Facebook
+10fa3ccb-23a9-4793-8d46-89f0195ac6ad,Iniciativa Liberal Santiago do Cacém,2023-03-24T10:52:22.092Z,aef55acb-b927-4136-b688-edce14832d6c,IL,Portugal,pt,106189545729867,Iniciativa Liberal Santiago do Cacém,Facebook
+26caa893-7b6d-4634-abc1-fcd1928f0134,Iniciativa Liberal - Gondomar,2023-05-30T06:52:24.491Z,d099484c-14bb-4077-be08-bb937a2e1a20,IL,Portugal,pt,101360765001943,Iniciativa Liberal - Gondomar,Facebook
+280719f1-a58a-483d-ab4d-378c969cb106,Iniciativa Liberal - Açores,2023-02-08T05:55:28.949Z,98008d89-05aa-411d-91ec-c2addb316776,IL,Portugal,pt,101429031461126,Iniciativa Liberal - Açores,Facebook
+37a0f550-0e94-45de-a657-4a297e07dc06,Iniciativa Liberal - Vila do Conde,2023-06-06T06:52:04.887Z,9e93691e-03f3-48d4-af14-c6b8b8d694fb,IL,Portugal,pt,345823966653719,Iniciativa Liberal - Vila do Conde,Facebook
+8010c6fd-b952-48ea-82f1-b4e41831f873,Iniciativa Liberal Aveiro,2023-11-12T05:06:14.246Z,3f73536c-1515-4ad3-a9db-cb3ddd13dc4f,IL,Portugal,pt,101914318152138,Iniciativa Liberal Aveiro,Facebook
+abc8809b-bdb8-45b6-b829-b4ce6ac28e63,Iniciativa Liberal Odivelas,2023-05-14T06:52:19.399Z,36de70d8-e1ad-4eb9-8cf2-2947a4fe8ac6,IL,Portugal,pt,106957877444901,Iniciativa Liberal Odivelas,Facebook
+bdd04677-f1f0-4c06-bda5-4eaf81084638,Iniciativa Liberal Póvoa de Varzim,2023-03-20T10:52:10.680Z,f7f9923b-7ffa-4057-9fa0-588bf1d2814c,IL,Portugal,pt,101565744677928,Iniciativa Liberal Póvoa de Varzim,Facebook
